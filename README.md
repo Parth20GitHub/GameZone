@@ -379,6 +379,7 @@ This repository also provides one such platforms where contributers come over an
 |[2048_win](https://github.com/kunjgit/GameZone/tree/main/Games/2048_win) |
 | [Dice_Roller](https://github.com/kunjgit/GameZone/tree/main/Games/Dice_Roller) | [Chrome_Dino_Game](https://github.com/kunjgit/GameZone/tree/main/Games/Chrome_Dino_Game) |
 | [Rock_paper_scissor](https://github.com/kunjgit/GameZone/tree/main/Games/Rock_paper_scissor) |
+| [Emoji_Bingo](https://github.com/kunjgit/GameZone/tree/main/Games/Emoji_Bingo) |
 | [City_Builder_Game](https://github.com/kunjgit/GameZone/tree/main/Games/City_Builder_Game) |
 | [Catch_The_Circle](https://github.com/kunjgit/GameZone/tree/main/Games/Catch_The_Circle) |
 | [Shrek_Vs_Wild](https://github.com/kunjgit/GameZone/tree/main/Games/Shrek_Vs_Wild) |
